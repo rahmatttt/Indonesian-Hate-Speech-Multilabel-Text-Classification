@@ -3,7 +3,7 @@
 The dataset consists of 18396 tweets with 12 labels.
 
 Languages in dataset :
-  - 12334 (60,05%) Indonesian
+  - 12334 (67,05%) Indonesian
   - 3780 (20,55%) English
   - 1991 (10,82%) Mixture of Indonesian and English
   - 251 (1,58%) Others
