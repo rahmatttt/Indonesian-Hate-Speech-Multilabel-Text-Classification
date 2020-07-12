@@ -3,7 +3,7 @@
 The dataset consists of 18396 tweets with 12 labels.
 
 Languages in dataset :
-  - 12334 (60,67%) Indonesian
+  - 12334 (67,05%) Indonesian
   - 3780 (20,55%) English
   - 1991 (10,82%) Mixture of Indonesian and English
   - 251 (1,58%) Others
@@ -22,7 +22,10 @@ Labels :
   - HS_Moderate (Moderate level hate speech)
   - HS_Strong (Strong level hate speech)
 
-Classifier : Random Forest Decision Tree
+Classifier : 
+  - Random Forest Decision Tree
+  - Bidirectional Long Short Term Memory
+  - Bidirectional Long Short Term Memory + BERT
 
 Data Transformation :
   - Classifier chains
