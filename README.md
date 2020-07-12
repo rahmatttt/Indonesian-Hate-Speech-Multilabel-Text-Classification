@@ -22,7 +22,10 @@ Labels :
   - HS_Moderate (Moderate level hate speech)
   - HS_Strong (Strong level hate speech)
 
-Classifier : Random Forest Decision Tree
+Classifier : 
+  - Random Forest Decision Tree
+  - Bidirectional Long Short Term Memory
+  - Bidirectional Long Short Term Memory + BERT
 
 Data Transformation :
   - Classifier chains
