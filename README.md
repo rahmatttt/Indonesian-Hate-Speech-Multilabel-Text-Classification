@@ -1,5 +1,10 @@
 # Multilabel Classification of Hate Speech and Abusive Words on Indonesian Twitter Social Media
 
+If you want to know more about this program you can read this paper :
+https://ieeexplore.ieee.org/document/9212962
+
+Don't forget to cite my paper if you use my code or data for your research or business
+
 The dataset consists of 18396 tweets with 12 labels.
 
 Languages in dataset :
